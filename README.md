@@ -59,7 +59,7 @@ I've always been very fascinated with Steve Jobs and Apple products, and I never
 > Alt + s = opening serach in  launchpad <br>
 # When will it be ready? idk man, this project will alyways be changing to make it better.
 
-https://giphy.com/starwars/reactions/IDK
+![https://giphy.com/starwars/reactions/IDK].
 
 # Can I contribute?
 
