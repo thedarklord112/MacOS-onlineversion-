@@ -60,7 +60,7 @@ I've always been very fascinated with Steve Jobs and Apple products, and I never
 # When will it be ready? 
 idk man, this project will alyways be changing to make it better.
 
-![Who Knows](https://giphy.com/starwars/reactions/IDK).
+![IDK man](https://media3.giphy.com/media/3ornjSL2sBcPflIDiU/200.gif)
 
 # Can I contribute?
 
