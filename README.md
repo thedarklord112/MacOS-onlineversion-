@@ -10,7 +10,7 @@ This open source project aims to replicate some of the macOS Big Sur desktop exp
 
 # Why
 
-I've always been very fascinated with macOS, and have never owned a Macbook. So I'm making the most beautiful aspect of macOS, its desktop, myself. For web. Inspired from [WinXP](https://winxp.now.sh/).
+I've always been very fascinated with Steve Jobs and Apple products, and I never cant have a macbook or another apple device. So, I decided to recreate macos for online version - not just for, me, and for people who never had this possibility defore ;)
 
 # Stack
 
@@ -26,6 +26,7 @@ I've always been very fascinated with macOS, and have never owned a Macbook. So 
 > - [x] App Window
 > - [x] Drop down menu on navbar top
 > - [x] Terminal app
+> - [x] Minecraft App
 > - [x] Note app
 > - [x] notification page
 > - [x] Add more notes on note app
@@ -33,7 +34,8 @@ I've always been very fascinated with macOS, and have never owned a Macbook. So 
 > - [x] Control center
 > - [ ] Preference app     
 > - [x] Map app      
-> - [ ] Siri  
+> - [ ] Siri AI
+> - [ ] Claude AI  
 > - [x] VSCode app      
 > - [ ] Weather app      
 > - [ ] Calendar app      
@@ -55,15 +57,13 @@ I've always been very fascinated with macOS, and have never owned a Macbook. So 
 > Alt + t = opening Terminal  <br>
 > Alt + o = opening Launchpad <br>
 > Alt + s = opening serach in  launchpad <br>
-# When will it be ready?
+# When will it be ready? idk man, this project will alyways be changing to make it better.
 
-![Who knows?](https://i.imgur.com/6xfbPzs.gif)
+https://giphy.com/starwars/reactions/IDK
 
 # Can I contribute?
 
 Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a PR and I appreciate it.
 
 
-# Hosted on Netlify
 
-[![Hosted on Netlify](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png)](https://netlify.app)
