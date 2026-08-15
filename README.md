@@ -1,4 +1,4 @@
-# macOS Web
+# MacOS Web
 
 This open source project aims to replicate some of the macOS Big Sur desktop experience on web using HTML, CSS & JavaScript!
 
@@ -57,9 +57,10 @@ I've always been very fascinated with Steve Jobs and Apple products, and I never
 > Alt + t = opening Terminal  <br>
 > Alt + o = opening Launchpad <br>
 > Alt + s = opening serach in  launchpad <br>
-# When will it be ready? idk man, this project will alyways be changing to make it better.
+# When will it be ready? 
+idk man, this project will alyways be changing to make it better.
 
-![https://giphy.com/starwars/reactions/IDK].
+![Who Knows](https://giphy.com/starwars/reactions/IDK).
 
 # Can I contribute?
 
